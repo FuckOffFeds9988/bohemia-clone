@@ -1,0 +1,275 @@
+.sprite {
+  background-image: url(sprite.png);
+  background-size: 5700% 300%;
+  background-repeat: no-repeat;
+  width: 16px;
+  height: 16px;
+  max-width: 100%;
+  float: left;
+  top: 3px;
+  position: relative;
+}
+
+.sprite--info {
+  background-position: 0.0% 0;
+}
+
+.sprite--exchange {
+  background-position: 1.786% 0;
+}
+
+.sprite--links {
+  background-position: 3.571% 0;
+}
+
+.sprite--search {
+  background-position: 5.357% 0;
+}
+
+.sprite--diagram {
+  background-position: 7.143% 0;
+}
+
+.sprite--affiliate {
+  background-position: 8.929% 0;
+}
+
+.sprite--bell {
+  background-position: 10.714% 0;
+}
+
+.sprite--bell:hover {
+  background-position: 12.5% 0;
+}
+
+.sprite--cart {
+  background-position: 14.286% 0;
+}
+
+.sprite--cart:hover {
+  background-position: 16.071% 0;
+}
+
+.sprite--card {
+  background-position: 17.857% 0;
+}
+
+.sprite--card:hover {
+  background-position: 19.643% 0;
+}
+
+.sprite--ad {
+  background-position: 21.429% 0;
+}
+
+.sprite--ad:hover {
+  background-position: 23.214% 0;
+}
+
+.sprite--bitcoin {
+  background-position: 25.0% 0;
+}
+
+.sprite--monero {
+  background-position: 26.786% 0;
+}
+
+.sprite--bullhorn {
+  background-position: 28.571% 0;
+}
+
+.sprite--bullhorn:hover {
+  background-position: 30.357% 0;
+}
+
+.sprite--caret {
+  background-position: 32.143% 0;
+}
+
+.sprite--caret:hover {
+  background-position: 33.929% 0;
+}
+
+.sprite--chartline {
+  background-position: 35.714% 0;
+}
+
+.sprite--chartline:hover {
+  background-position: 37.5% 0;
+}
+
+.sprite--clipboardlist {
+  background-position: 39.286% 0;
+}
+
+.sprite--clipboardlist:hover {
+  background-position: 41.071% 0;
+}
+
+.sprite--cog {
+  background-position: 42.857% 0;
+}
+
+.sprite--cog:hover {
+  background-position: 44.643% 0;
+}
+
+.sprite--comment {
+  background-position: 46.429% 0;
+}
+
+.sprite--comment:hover {
+  background-position: 48.214% 0;
+}
+
+.sprite--triangle {
+  background-position: 50.0% 0;
+}
+
+.sprite--home {
+  background-position: 51.786% 0;
+}
+
+.sprite--home:hover {
+  background-position: 53.571% 0;
+}
+
+.sprite--inbox {
+  background-position: 55.357% 0;
+}
+
+.sprite--inbox:hover {
+  background-position: 57.143% 0;
+}
+
+.sprite--list {
+  background-position: 58.929% 0;
+}
+
+.sprite--list:hover {
+  background-position: 60.714% 0;
+}
+
+.sprite--lock {
+  background-position: 62.5% 0;
+}
+
+.sprite--lock:hover {
+  background-position: 64.286% 0;
+}
+
+.sprite--money {
+  background-position: 66.071% 0;
+}
+
+.sprite--money:hover {
+  background-position: 67.857% 0;
+}
+
+.sprite--wavingmoney {
+  background-position: 69.643% 0;
+}
+
+.sprite--wavingmoney:hover {
+  background-position: 71.429% 0;
+}
+
+.sprite--pen {
+  background-position: 73.214% 0;
+}
+
+.sprite--pen:hover {
+  background-position: 75.0% 0;
+}
+
+.sprite--qr {
+  background-position: 76.786% 0;
+}
+
+.sprite--qr:hover {
+  background-position: 78.571% 0;
+}
+
+.sprite--reply {
+  background-position: 80.357% 0;
+}
+
+.sprite--reply:hover {
+  background-position: 82.143% 0;
+}
+
+.sprite--star {
+  background-position: 83.929% 0;
+}
+
+.sprite--star-rating {
+  background-position: 83.929% 0;
+}
+
+.sprite--star:hover {
+  background-position: 85.714% 0;
+}
+
+.sprite--stargold {
+  background-position: 87.5% 0;
+}
+
+.sprite--tags {
+  background-position: 89.286% 0;
+}
+
+.sprite--tags:hover {
+  background-position: 91.071% 0;
+}
+
+.sprite--times {
+  background-position: 92.857% 0;
+}
+
+.sprite--slash {
+  background-position: 94.643% 0;
+}
+
+.sprite--slash:hover {
+  background-position: 96.429% 0;
+}
+
+.sprite--wallet {
+  background-position: 98.214% 0;
+}
+
+.sprite--wallet:hover {
+  background-position: 100.0% 0;
+}
+
+.sprite--shopping-cart {
+  background-position: 14.286% 0;
+}
+
+.sprite--circle {
+  background-position: 0.0% 50%;
+}
+
+.sprite--user {
+  background-position: 1.786% 50%;
+}
+
+.sprite--minus {
+  background-position: 3.571% 50%;
+}
+
+.sprite--plus {
+  background-position: 5.357% 50%;
+}
+
+.sprite--happy {
+  background-position: 0.0% 100%;
+}
+
+.sprite--meh {
+  background-position: 1.786% 100%;
+}
+
+.sprite--frown {
+  background-position: 3.571% 100%;
+}
